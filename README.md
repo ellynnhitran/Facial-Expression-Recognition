@@ -34,7 +34,7 @@ FER2013: 48 Features, 7 Labels, 35887 Examples.
 - Calculate test loss & accuracy (101 data).
 
 ## Evaluate model
-- Make prediction for custom image out of test set
+- Make prediction for Mark's image out of test set
 
 ![Mark Zukerberg](https://github.com/ellynnhitran/Facial-Expression-Recognition/blob/master/result%20mark%20test.png)
 
